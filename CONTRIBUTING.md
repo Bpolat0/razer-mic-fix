@@ -5,7 +5,7 @@ Thank you for your interest in contributing to Razer Mic Fix! We welcome contrib
 ## 🎯 Ways to Contribute
 
 ### 🐛 Bug Reports
-- **Search first**: Check if the issue already exists in our [Issues](https://github.com/yourusername/razer-mic-fix/issues)
+- **Search first**: Check if the issue already exists in our [Issues](https://github.com/Bpolat0/razer-mic-fix/issues)
 - **Be specific**: Include system information, steps to reproduce, and expected vs actual behavior
 - **Use templates**: We provide issue templates to help you include all necessary information
 
@@ -44,7 +44,7 @@ Help us make the app accessible to more users:
 ### Getting Started
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # Install dependencies
@@ -155,7 +155,7 @@ We follow [Semantic Versioning](https://semver.org/):
 
 ## 💬 Getting Help
 
-- **Discord/Discussions**: [Create a discussion](https://github.com/yourusername/razer-mic-fix/discussions)
+- **Discord/Discussions**: [Create a discussion](https://github.com/Bpolat0/razer-mic-fix/discussions)
 - **Issues**: For bugs and feature requests
 - **Email**: For security concerns or private matters
 

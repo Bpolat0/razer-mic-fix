@@ -29,7 +29,7 @@
 ## 🚀 빠른 시작
 
 ### 다운로드 및 설치
-1. [Releases](https://github.com/yourusername/razer-mic-fix/releases) 페이지 방문
+1. [Releases](https://github.com/Bpolat0/razer-mic-fix/releases) 페이지 방문
 2. 최신 `.exe` 설치 파일 다운로드
 3. 설치 프로그램을 실행하고 설정 마법사를 따라 진행
 4. 애플리케이션 시작
@@ -82,7 +82,7 @@
 - ❌ 관리자 권한 요구 안 함
 
 ### 오픈 소스 보장
-- **100% 오픈 소스** - [모든 코드 보기](https://github.com/yourusername/razer-mic-fix)
+- **100% 오픈 소스** - [모든 코드 보기](https://github.com/Bpolat0/razer-mic-fix)
 - **원격 측정 없음** 또는 데이터 수집 없음
 - **숨겨진 기능 없음**
 - **커뮤니티 검증됨**
@@ -101,7 +101,7 @@
 기여를 환영합니다! 도울 수 있는 방법:
 
 ### 🐛 버그 보고
-- 버그를 발견했나요? [이슈 생성](https://github.com/yourusername/razer-mic-fix/issues)
+- 버그를 발견했나요? [이슈 생성](https://github.com/Bpolat0/razer-mic-fix/issues)
 - 시스템 정보와 재현 단계를 포함해 주세요
 
 ### 💻 코드 기여
@@ -127,7 +127,7 @@
 ### 소스에서 컴파일
 ```bash
 # 저장소 클론
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # 종속성 설치

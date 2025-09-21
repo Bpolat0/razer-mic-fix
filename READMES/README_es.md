@@ -29,7 +29,7 @@ Una **solución rápida y confiable** para problemas de volumen del micrófono *
 ## 🚀 Inicio Rápido
 
 ### Descarga e Instalación
-1. Visita la página de [Releases](https://github.com/yourusername/razer-mic-fix/releases)
+1. Visita la página de [Releases](https://github.com/Bpolat0/razer-mic-fix/releases)
 2. Descarga el último archivo de instalación `.exe`
 3. Ejecuta el instalador y sigue el asistente de configuración
 4. Inicia la aplicación
@@ -82,7 +82,7 @@ Una **solución rápida y confiable** para problemas de volumen del micrófono *
 - ❌ No requiere permisos de administrador
 
 ### Garantía de Código Abierto
-- **100% Código Abierto** - [ver todo el código](https://github.com/yourusername/razer-mic-fix)
+- **100% Código Abierto** - [ver todo el código](https://github.com/Bpolat0/razer-mic-fix)
 - **Sin telemetría** o recopilación de datos
 - **Sin funcionalidad oculta**
 - **Verificado por la comunidad**
@@ -101,7 +101,7 @@ Una **solución rápida y confiable** para problemas de volumen del micrófono *
 ¡Damos la bienvenida a las contribuciones! Así es como puedes ayudar:
 
 ### 🐛 Reportar Errores
-- ¿Encontraste un error? [Crear un issue](https://github.com/yourusername/razer-mic-fix/issues)
+- ¿Encontraste un error? [Crear un issue](https://github.com/Bpolat0/razer-mic-fix/issues)
 - Incluye información del sistema y pasos para reproducir
 
 ### 💻 Contribuciones de Código
@@ -127,7 +127,7 @@ Ayúdanos a traducir la app a más idiomas:
 ### Compilar desde Código Fuente
 ```bash
 # Clonar el repositorio
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # Instalar dependencias

@@ -29,7 +29,7 @@ Eine **schnelle und zuverlässige Lösung** für Mikrofon-Lautstärkeprobleme be
 ## 🚀 Schnellstart
 
 ### Download und Installation
-1. Besuchen Sie die [Releases](https://github.com/yourusername/razer-mic-fix/releases) Seite
+1. Besuchen Sie die [Releases](https://github.com/Bpolat0/razer-mic-fix/releases) Seite
 2. Laden Sie die neueste `.exe` Installationsdatei herunter
 3. Führen Sie das Installationsprogramm aus und folgen Sie dem Setup-Assistenten
 4. Starten Sie die Anwendung
@@ -82,7 +82,7 @@ Eine **schnelle und zuverlässige Lösung** für Mikrofon-Lautstärkeprobleme be
 - ❌ Benötigt Administratorberechtigungen
 
 ### Open-Source-Garantie
-- **100% Open Source** - [vollständigen Code anzeigen](https://github.com/yourusername/razer-mic-fix)
+- **100% Open Source** - [vollständigen Code anzeigen](https://github.com/Bpolat0/razer-mic-fix)
 - **Keine Telemetrie** oder Datensammlung
 - **Keine versteckten Funktionen**
 - **Von der Community verifiziert**
@@ -101,7 +101,7 @@ Eine **schnelle und zuverlässige Lösung** für Mikrofon-Lautstärkeprobleme be
 Wir begrüßen Beiträge! So können Sie helfen:
 
 ### 🐛 Fehler melden
-- Fehler gefunden? [Issue erstellen](https://github.com/yourusername/razer-mic-fix/issues)
+- Fehler gefunden? [Issue erstellen](https://github.com/Bpolat0/razer-mic-fix/issues)
 - Systeminfo und Schritte zur Reproduktion hinzufügen
 
 ### 💻 Code-Beiträge
@@ -127,7 +127,7 @@ Helfen Sie uns, die App in mehr Sprachen zu übersetzen:
 ### Aus Quellcode kompilieren
 ```bash
 # Repository klonen
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # Abhängigkeiten installieren

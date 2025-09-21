@@ -29,7 +29,7 @@
 ## 🚀 快速开始
 
 ### 下载和安装
-1. 访问 [Releases](https://github.com/yourusername/razer-mic-fix/releases) 页面
+1. 访问 [Releases](https://github.com/Bpolat0/razer-mic-fix/releases) 页面
 2. 下载最新的 `.exe` 安装文件
 3. 运行安装程序并按照设置向导操作
 4. 启动应用程序
@@ -82,7 +82,7 @@
 - ❌ 不需要管理员权限
 
 ### 开源保证
-- **100% 开源** - [查看所有代码](https://github.com/yourusername/razer-mic-fix)
+- **100% 开源** - [查看所有代码](https://github.com/Bpolat0/razer-mic-fix)
 - **无遥测** 或数据收集
 - **无隐藏功能**
 - **社区验证**
@@ -101,7 +101,7 @@
 我们欢迎贡献！以下是您可以提供帮助的方式：
 
 ### 🐛 报告错误
-- 发现错误？[创建 issue](https://github.com/yourusername/razer-mic-fix/issues)
+- 发现错误？[创建 issue](https://github.com/Bpolat0/razer-mic-fix/issues)
 - 包含系统信息和重现步骤
 
 ### 💻 代码贡献
@@ -127,7 +127,7 @@
 ### 从源代码编译
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # 安装依赖

@@ -1,7 +1,7 @@
 # 🎧 Razer Mic Volume Fixer
 
-[![GitHub Release](https://img.shields.io/github/v/release/yourusername/razer-mic-fix)](https://github.com/yourusername/razer-mic-fix/releases)
-[![GitHub Downloads](https://img.shields.io/github/downloads/yourusername/razer-mic-fix/total)](https://github.com/yourusername/razer-mic-fix/releases)
+[![GitHub Release](https://img.shields.io/github/v/release/Bpolat0/razer-mic-fix)](https://github.com/Bpolat0/razer-mic-fix/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/Bpolat0/razer-mic-fix/total)](https://github.com/Bpolat0/razer-mic-fix/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🌐 Language / Dil Seçimi
@@ -40,7 +40,7 @@ A **fast and reliable solution** for the **Razer BlackShark V2 Pro (2023)** micr
 ## 🚀 Quick Start
 
 ### Download & Run (No Installation!)
-1. Go to [Releases](https://github.com/yourusername/razer-mic-fix/releases)
+1. Go to [Releases](https://github.com/Bpolat0/razer-mic-fix/releases)
 2. Download the latest `RazerMicFixer.exe` file
 3. **Double-click to run immediately** - No installation required!
 4. Place the file anywhere you want on your computer
@@ -93,7 +93,7 @@ A **fast and reliable solution** for the **Razer BlackShark V2 Pro (2023)** micr
 - ❌ Require admin privileges
 
 ### Open Source Guarantee
-- **100% open source** - [view all code](https://github.com/yourusername/razer-mic-fix)
+- **100% open source** - [view all code](https://github.com/Bpolat0/razer-mic-fix)
 - **No telemetry** or data collection
 - **No hidden functionality**
 - **Community verified**
@@ -112,7 +112,7 @@ A **fast and reliable solution** for the **Razer BlackShark V2 Pro (2023)** micr
 We welcome contributions! Here's how you can help:
 
 ### 🐛 Report Issues
-- Found a bug? [Create an issue](https://github.com/yourusername/razer-mic-fix/issues)
+- Found a bug? [Create an issue](https://github.com/Bpolat0/razer-mic-fix/issues)
 - Include your system info and steps to reproduce
 
 ### 💻 Code Contributions
@@ -145,7 +145,7 @@ If this tool helped you:
 ### Build from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # Install dependencies

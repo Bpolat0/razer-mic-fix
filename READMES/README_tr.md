@@ -29,7 +29,7 @@
 ## 🚀 Hızlı Başlangıç
 
 ### İndirme ve Kurulum
-1. [Releases](https://github.com/yourusername/razer-mic-fix/releases) sayfasına gidin
+1. [Releases](https://github.com/Bpolat0/razer-mic-fix/releases) sayfasına gidin
 2. En son `.exe` kurulum dosyasını indirin
 3. Kurulum dosyasını çalıştırın ve kurulum sihirbazını takip edin
 4. Uygulamayı başlatın
@@ -82,7 +82,7 @@
 - ❌ Yönetici izinleri gerektirmez
 
 ### Açık Kaynak Garantisi
-- **%100 açık kaynak** - [tüm kodu görüntüle](https://github.com/yourusername/razer-mic-fix)
+- **%100 açık kaynak** - [tüm kodu görüntüle](https://github.com/Bpolat0/razer-mic-fix)
 - **Telemetri yok** veya veri toplama yok
 - **Gizli işlevsellik yok**
 - **Topluluk doğrulamalı**
@@ -101,7 +101,7 @@
 Katkılarınızı memnuniyetle karşılıyoruz! Nasıl yardımcı olabileceğiniz:
 
 ### 🐛 Hata Bildirimi
-- Hata buldunuz mu? [Issue oluşturun](https://github.com/yourusername/razer-mic-fix/issues)
+- Hata buldunuz mu? [Issue oluşturun](https://github.com/Bpolat0/razer-mic-fix/issues)
 - Sistem bilgilerinizi ve hatayı tekrar etme adımlarını ekleyin
 
 ### 💻 Kod Katkıları
@@ -127,7 +127,7 @@ Uygulamayı daha fazla dile çevirmemize yardımcı olun:
 ### Kaynaktan Derleme
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # Bağımlılıkları kurun

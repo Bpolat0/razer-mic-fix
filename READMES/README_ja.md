@@ -29,7 +29,7 @@
 ## 🚀 クイックスタート
 
 ### ダウンロードとインストール
-1. [Releases](https://github.com/yourusername/razer-mic-fix/releases)ページにアクセス
+1. [Releases](https://github.com/Bpolat0/razer-mic-fix/releases)ページにアクセス
 2. 最新の`.exe`インストールファイルをダウンロード
 3. インストーラーを実行し、セットアップウィザードに従う
 4. アプリケーションを起動
@@ -82,7 +82,7 @@
 - ❌ 管理者権限の要求
 
 ### オープンソース保証
-- **100%オープンソース** - [全コードを表示](https://github.com/yourusername/razer-mic-fix)
+- **100%オープンソース** - [全コードを表示](https://github.com/Bpolat0/razer-mic-fix)
 - **テレメトリーなし**またはデータ収集なし
 - **隠された機能なし**
 - **コミュニティ検証済み**
@@ -101,7 +101,7 @@
 貢献を歓迎します！以下の方法で支援できます：
 
 ### 🐛 バグ報告
-- バグを発見しましたか？[Issue作成](https://github.com/yourusername/razer-mic-fix/issues)
+- バグを発見しましたか？[Issue作成](https://github.com/Bpolat0/razer-mic-fix/issues)
 - システム情報と再現手順を含めてください
 
 ### 💻 コード貢献
@@ -127,7 +127,7 @@
 ### ソースからコンパイル
 ```bash
 # リポジトリをクローン
-git clone https://github.com/yourusername/razer-mic-fix.git
+git clone https://github.com/Bpolat0/razer-mic-fix.git
 cd razer-mic-fix
 
 # 依存関係をインストール
