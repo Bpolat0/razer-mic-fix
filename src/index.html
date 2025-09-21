@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Razer Mic Volume Fixer</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Loading Screen -->
+  <div id="loading-screen" style="
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    background: #1a1a1a; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    z-index: 9999;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  ">
+    <div style="margin-bottom: 20px;">
+      <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="#4CAF50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 2a3 3 0 0 0-3 3v4a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3Z"/>
+        <path d="M19 10v2a7 7 0 0 1-14 0v-2"/>
+        <line x1="12" y1="19" x2="12" y2="23"/>
+        <line x1="8" y1="23" x2="16" y2="23"/>
+      </svg>
+    </div>
+    <h2 style="margin: 0 0 10px 0; font-size: 24px; font-weight: 600;">Razer Mic Volume Fixer</h2>
+    <p style="margin: 0; font-size: 14px; opacity: 0.7;">Loading...</p>
+  </div>
+
+  <!-- Main App -->
+  <div id="main-app" style="display: none;">
+  <div class="card">
+    <h1 id="app-title" data-i18n="app_title">Razer Mic Volume Fixer</h1>
+
+    <label id="target-volume-label" data-i18n="target_volume">Target Volume (%)</label>
+    <input type="range" id="vol" min="0" max="100" value="85" />
+    <div id="volv">Target: 85%</div>
+
+    <div class="row">
+      <label id="check-interval-label" data-i18n="check_interval">Check interval (s)</label>
+      <input type="range" id="intv" min="0.02" max="2" step="0.01" value="0.2" />
+      <div id="intvv">0.2 s</div>
+    </div>
+
+    <label id="device-label" data-i18n="device">Device</label>
+    <select id="device"></select>
+
+    <div class="checkboxes">
+      <label><input type="checkbox" id="start-monitoring-launch"> <span id="start-monitoring-label" data-i18n="start_monitoring_on_launch">Start monitoring on launch</span></label>
+      <label><input type="checkbox" id="autostart"> <span id="start-with-windows-label" data-i18n="start_with_windows">Start with Windows</span></label>
+    </div>
+
+    <div class="row">
+      <label id="language-label" data-i18n="language">Language</label>
+      <select id="language"></select>
+    </div>
+
+    <div class="row btns">
+      <button id="start" data-i18n="start">Start</button>
+      <button id="stop" data-i18n="stop">Stop</button>
+    </div>
+
+    <div class="row btns">
+      <button id="hide-to-tray" data-i18n="hide_to_tray">Hide to Tray</button>
+      <button id="exit" data-i18n="exit">Exit</button>
+    </div>
+
+    <div class="hint" id="closing-hint" data-i18n="notification_hidden">Closing the window hides to tray.</div>
+  </div>
+  </div>
+
+  <script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,48 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Razer Mic Volume Fixer",
+  "version": "1.0.0",
+  "identifier": "com.razer.mic.fix",
+  "build": {
+    "frontendDist": "../src"
+  },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "label": "main",
+        "title": "Razer Mic Volume Fixer",
+        "width": 800,
+        "height": 600,
+        "theme": "Dark",
+        "decorations": true,
+        "resizable": false,
+        "fullscreen": false,
+        "maximized": false,
+        "visible": false,
+        "transparent": false,
+        "alwaysOnTop": false,
+        "contentProtected": true,
+        "skipTaskbar": false,
+        "center": true,
+        "minimizable": true,
+        "closable": true,
+        "shadow": true,
+        "focus": true
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'",
+      "devCsp": "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'"
+    }
+  },
+  "bundle": {
+    "targets": [], 
+    "icon": ["icons/mic.ico"],
+    "publisher": "Community",
+    "copyright": "Copyright © 2025 Open Source Community",
+    "category": "Utility",
+    "shortDescription": "Community microphone volume fixer",
+    "longDescription": "Community-made tool to fix microphone volume issues on Windows"
+  }
+}
